@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sensai – AI Career Coach Platform  
 
-## Getting Started
+An **AI-powered career development platform** that helps users create ATS-optimized resumes, generate tailored cover letters, prepare for interviews with role-specific questions, and explore real-time industry insights such as salary ranges, skill demand, and market outlook.  
 
-First, run the development server:
+🔗 **Live Demo:** https://mysensai.vercel.app/  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **AI-Powered Career Guidance** – Personalized career insights using LLMs and Gemini API  
+- **Smart Resume Builder** – Generate ATS-optimized resumes with AI-based content improvement  
+- **Cover Letter Generator** – Create customized, job-specific cover letters aligned with user profiles  
+- **Interview Preparation** – Mock quizzes with role-based MCQs, performance tracking, and AI feedback  
+- **Real-Time Industry Insights** – Weekly updated dashboards with skill demand, salary ranges, and market outlook  
+- **Secure Authentication** – User accounts protected with Clerk Auth and modern security practices  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Tech Stack  
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend:** React.js, Next.js 15, Tailwind CSS, ShadCN UI  
+- **Backend & Database:** NeonDB, Prisma  
+- **AI Integration:** Gemini API (Google)  
+- **Auth & Security:** Clerk Authentication  
+- **Charts & Visuals:** Recharts, Markdown Editor  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## System Workflow  
 
-## Deploy on Vercel
+1. **User Onboarding:** Enter industry, specialization, skills, and bio.  
+2. **Content Generation:** AI creates resumes, cover letters, and interview questions.  
+3. **Industry Insights:** Weekly updated data on skills, salaries, and growth.  
+4. **Mock Interviews:** 10-question quizzes with instant results and feedback.  
+5. **Progress Tracking:** Visual graphs for scores, performance, and career readiness.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Screenshots  
+
+                                                       Landing Page
+![Landing Page]() 
+
+                                                    Industry Insight
+
+![Industry Insights]()
+
+                                                    Resume Builder
+
