@@ -2,7 +2,7 @@
 
 An **AI-powered career development platform** that helps users create ATS-optimized resumes, generate tailored cover letters, prepare for interviews with role-specific questions, and explore real-time industry insights such as salary ranges, skill demand, and market outlook.  
 
-🔗 **Live Demo:** https://mysensai.vercel.app/  
+🔗 **Live Demo:**  https://mysensai.vercel.app/  
 
 ---
 
@@ -39,12 +39,23 @@ An **AI-powered career development platform** that helps users create ATS-optimi
 
 ## Screenshots  
 
-                                                       Landing Page
-![Landing Page]() 
+### Landing Page 
 
-                                                    Industry Insight
+![Landing Page](SS/landing.png) 
 
-![Industry Insights]()
+### Industry Insights
 
-                                                    Resume Builder
+![Industry Insights](SS/Insights.png)
 
+### Resume Builder
+
+![Resume Builder](SS/resume_builder.png)
+![Resume Builder](SS/resumeMarkdown.png)
+
+### Cover Letter Generator  
+![Cover Letter Generator](SS/CreateCoverLetter.png)  
+![Cover Letter Generator](SS/myCoverLetter.png)  
+
+### Mock Interview Preparation  
+![Interview Preparation](SS/mockInterview.png)  
+![Interview Preparation](SS/quizResult.png) 
